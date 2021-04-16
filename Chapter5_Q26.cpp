@@ -1,9 +1,4 @@
-/*Chapter 5 Question 26
-Programmer: Ilya Kogan
-CSC119-143 Introduction to Programming Spring 2021
-04/15/2021
-This program asks for name and description, then it creates an HTML with that info
-*/
+
 #include <iostream>
 #include <fstream>//I use this to open and use files within the program
 #include <string>//I use this to access getline
